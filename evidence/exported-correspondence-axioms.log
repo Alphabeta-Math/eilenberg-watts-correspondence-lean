@@ -1,0 +1,7 @@
+'EilenbergWatts' depends on axioms: [propext, Classical.choice, Quot.sound]
+'BimoduleFunctorHomEquivalence' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ReviewedOriginalWattsConnection' depends on axioms: [propext, Classical.choice, Quot.sound]
+'NotesProofs.General.ConcreteBimodule.eilenbergWattsCanonical' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'NotesProofs.General.originalWattsWithEvaluation' depends on axioms: [propext, Classical.choice, Quot.sound]

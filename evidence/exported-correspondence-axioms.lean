@@ -1,0 +1,7 @@
+import EilenbergWatts
+
+#print axioms EilenbergWatts
+#print axioms BimoduleFunctorHomEquivalence
+#print axioms ReviewedOriginalWattsConnection
+#print axioms NotesProofs.General.ConcreteBimodule.eilenbergWattsCanonical
+#print axioms NotesProofs.General.originalWattsWithEvaluation

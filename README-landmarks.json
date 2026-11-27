@@ -1,0 +1,22 @@
+[
+  "ModuleCategoriesAreAbelian",
+  "ModuleProductsAndCoproducts",
+  "FreeModulesAndPresentations",
+  "RegularModuleSmallProjectiveGenerator",
+  "BalancedTensorUniversalProperty",
+  "BimoduleTensorFunctoriality",
+  "BalancedTensorAssociativity",
+  "TensorPreservesCoproducts",
+  "TensorPreservesCokernels",
+  "RegularEvaluationRightAction",
+  "CanonicalWattsNaturalTransformation",
+  "EilenbergWatts",
+  "NaturalTransformationsByRegularEvaluation",
+  "BimoduleFunctorHomEquivalence",
+  "TensorDictionaryCompositionAndIdentities",
+  "TensorPentagonAndTriangle",
+  "HorizontalCompositionOfTransformations",
+  "GeneratorHomFullyFaithful",
+  "ReconstructionFromSmallProjectiveGenerator",
+  "CategoricalBimoduleDictionary"
+]
